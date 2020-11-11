@@ -14,9 +14,6 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 * Author name : Alexander Retivov
 * Codeship : [![Codeship Status for AlexMeowler/javaschoolexam](https://app.codeship.com/projects/72485216-e16c-48a2-b7b6-31437e2c777e/status?branch=main)](https://app.codeship.com/projects/417824)
 
-Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
-
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
